@@ -1,2 +1,2 @@
-# jee-maono
-itpe proj bsit 1 - it5
+# vxe-store-website
+Product website for Pre-final exam. inspired website using only HTML and CSS. 
